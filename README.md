@@ -23,9 +23,6 @@ Built with **React, TypeScript, and Tailwind CSS**.
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots or a demo GIF of your portfolio here)
 
 ---
 
